@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "弱虫モンブラン(Reloaded) (Cover)",
+  "base_artist": "そらる",
+  "createdAt": "2026-02-20T12:51:21.244007Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "弱虫モンブラン",
+      "artist": "そらる",
+      "has_synced": false,
+      "path": "select/pl_01_弱虫モンブラン_そらる.txt"
+    }
+  ]
+}
